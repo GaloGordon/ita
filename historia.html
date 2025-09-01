@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Para Nosotros · Nuestra Historia</title>
+  <meta name="description" content="Un sitio sorpresa romántico, lleno de recuerdos y amor.">
+  <meta name="theme-color" content="#ff5e7e" />
+  <link rel="icon" href="assets/img/favicon-heart.svg" type="image/svg+xml" />
+  <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <header class="site-header">
+  <a class="brand" href="./"><span class="heart">❤</span> Para Nosotros</a>
+  <nav class="nav" data-active="story">
+    <a href="./" data-page="home">Inicio</a>
+    <a href="galeria.html" data-page="gallery">Galería</a>
+    <a href="historia.html" data-page="story">Nuestra Historia</a>
+    <a href="video.html" data-page="video">Video</a>
+    <a class="cta" href="cuenta-regresiva.html" data-page="countdown">Cuenta Regresiva</a>
+  </nav>
+</header>
+  <main class="container"><h1>Nuestra Historia</h1>
+<div class="timeline card">
+  <div class="evento"><h3>Nos conocimos 💫</h3><p>Día 1 — Un mensaje que lo cambió todo.</p></div>
+  <div class="evento"><h3>Primera cita 🍰</h3><p>Esa sonrisa. Esa risa. Ese café.</p></div>
+  <div class="evento"><h3>Primer viaje ✈️</h3><p>Escribe sobre la ciudad, las vistas, los momentos.</p></div>
+  <div class="evento"><h3>Más capítulos…</h3><p>Añade tantos eventos como quieras — es vuestra historia.</p></div>
+</div>
+<section class="two-col section">
+  <div class="card"><h2>Cosas favoritas</h2><ul><li>Tu sonrisa cuando ves perritos</li><li>Nuestras charlas nocturnas</li><li>Panqueques de domingo</li></ul></div>
+  <div class="card"><h2>Lista de deseos</h2><ul><li>Pícnic al atardecer</li><li>Escapada sin mapa</li><li>Aprender un baile juntos</li></ul></div>
+</section></main>
+  <footer class="site-footer">
+    <p>© <span id="year"></span> Para <strong>Nosotros</strong>. Hecho con ♥.</p>
+  </footer>
+  <div class="floating-hearts" id="hearts"></div>
+  <script src="assets/js/main.js"></script>
+  <div class="music-toggle" aria-label="Control de música">
+  <button id="music-btn" type="button">▶︎ Play música</button>
+</div>
+<div class="yt-bg"><div id="yt-player"></div></div>
+<script src="https://www.youtube.com/iframe_api"></script>
+<script src="assets/js/music.js"></script>
+  
+</body>
+</html>

@@ -1,0 +1,17 @@
+[
+  {
+    "src": "assets/fotos/foto-1.jpg",
+    "thumb": "assets/fotos/foto-1.jpg",
+    "alt": "En el parque"
+  },
+  {
+    "src": "assets/fotos/foto-2.jpg",
+    "thumb": "assets/fotos/foto-2.jpg",
+    "alt": "Cita de café"
+  },
+  {
+    "src": "assets/fotos/foto-3.jpg",
+    "thumb": "assets/fotos/foto-3.jpg",
+    "alt": "Paseo al atardecer"
+  }
+]

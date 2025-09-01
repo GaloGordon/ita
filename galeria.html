@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Para Nosotros · Galería</title>
+  <meta name="description" content="Un sitio sorpresa romántico, lleno de recuerdos y amor.">
+  <meta name="theme-color" content="#ff5e7e" />
+  <link rel="icon" href="assets/img/favicon-heart.svg" type="image/svg+xml" />
+  <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <header class="site-header">
+  <a class="brand" href="./"><span class="heart">❤</span> Para Nosotros</a>
+  <nav class="nav" data-active="gallery">
+    <a href="./" data-page="home">Inicio</a>
+    <a href="galeria.html" data-page="gallery">Galería</a>
+    <a href="historia.html" data-page="story">Nuestra Historia</a>
+    <a href="video.html" data-page="video">Video</a>
+    <a class="cta" href="cuenta-regresiva.html" data-page="countdown">Cuenta Regresiva</a>
+  </nav>
+</header>
+  <main class="container"><h1>Galería</h1>
+<p class="lead">Sube tus fotos a <code>assets/fotos/</code> y enuméralas en <code>assets/fotos/fotos.json</code>. Las miniaturas son opcionales.</p>
+<section id="gallery" class="gallery"></section>
+<div class="lightbox" id="lightbox" aria-hidden="true">
+  <button class="close" aria-label="Cerrar">✕</button>
+  <button class="prev" aria-label="Anterior">‹</button>
+  <img alt="">
+  <button class="next" aria-label="Siguiente">›</button>
+</div></main>
+  <footer class="site-footer">
+    <p>© <span id="year"></span> Para <strong>Nosotros</strong>. Hecho con ♥.</p>
+  </footer>
+  <div class="floating-hearts" id="hearts"></div>
+  <script src="assets/js/main.js"></script>
+  <div class="music-toggle" aria-label="Control de música">
+  <button id="music-btn" type="button">▶︎ Play música</button>
+</div>
+<div class="yt-bg"><div id="yt-player"></div></div>
+<script src="https://www.youtube.com/iframe_api"></script>
+<script src="assets/js/music.js"></script>
+  <script src="assets/js/lightbox.js"></script>
+</body>
+</html>
