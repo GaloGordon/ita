@@ -1,17 +1,68 @@
 [
   {
-    "src": "assets/fotos/foto-1.jpg",
-    "thumb": "assets/fotos/foto-1.jpg",
-    "alt": "En el parque"
+    "src": "assets/fotos/teide.jpg",
+    "thumb": "assets/fotos/teide.jpg",
+    "alt": "Mi foto favorita de los dos"
   },
   {
-    "src": "assets/fotos/foto-2.jpg",
-    "thumb": "assets/fotos/foto-2.jpg",
-    "alt": "Cita de café"
+    "src": "assets/fotos/alhambra.jpg",
+    "thumb": "assets/fotos/alhambra.jpg",
+    "alt": "Da igual el enfado siempre que se te pone una cámara"
   },
   {
-    "src": "assets/fotos/foto-3.jpg",
-    "thumb": "assets/fotos/foto-3.jpg",
-    "alt": "Paseo al atardecer"
+    "src": "assets/fotos/carbon.jpg",
+    "thumb": "assets/fotos/carbon.jpg",
+    "alt": "Muy aesthetic la verdad"
+  }
+    {
+    "src": "assets/fotos/espejo.jpg",
+    "thumb": "assets/fotos/espejo.jpg",
+    "alt": "Siempre serás mi pequeñita"
+  }
+    {
+    "src": "assets/fotos/cucaracha.jpg",
+    "thumb": "assets/fotos/cucaracha.jpg",
+    "alt": "Top momentos de mi top viaje"
+  }
+    {
+    "src": "assets/fotos/despedida.jpg",
+    "thumb": "assets/fotos/despedida.jpg",
+    "alt": "Voy a estar siempre, cerca o lejos"
+  }
+
+  {
+    "src": "assets/fotos/g10.jpg",
+    "thumb": "assets/fotos/g10.jpg",
+    "alt": "Por muchas más fiestas juntos"
+  },
+    {
+    "src": "assets/fotos/primavera.jpg",
+    "thumb": "assets/fotos/primavera.jpg",
+    "alt": "Si llegamos a entrar a ellas claro"
+  }
+  {
+    "src": "assets/fotos/montanaamarilla.jpg",
+    "thumb": "assets/fotos/montanaamarilla.jpg",
+    "alt": "Lo fuerte que estoy ke"
+  },
+    {
+    "src": "assets/fotos/sevilla.jpg",
+    "thumb": "assets/fotos/sevilla.jpg",
+    "alt": "Un viaje entre solo amigos jasjsjjaj"
+  }
+    {
+    "src": "assets/fotos/sunblast.jpg",
+    "thumb": "assets/fotos/sunblast.jpg",
+    "alt": "Fotaca del mejor festival al que he ido"
+  }
+    {
+    "src": "assets/fotos/eyes.jpg",
+    "thumb": "assets/fotos/eyes.jpg",
+    "alt": "Nuestra primera foto juntos <3"
+  }
+      {
+    "src": "assets/fotos/mascarilla.jpg",
+    "thumb": "assets/fotos/mascarilla.jpg",
+    "alt": "Porque sigas cuidandome siempre así"
   }
 ]
