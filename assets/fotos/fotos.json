@@ -2,12 +2,14 @@
   {
     "src": "assets/fotos/teide.jpg",
     "thumb": "assets/fotos/teide.jpg",
-    "alt": "Mi foto favorita de los dos"
+    "alt": "Mi foto favorita de los dos",
+    "caption": "Mi foto favorita de los dos"
   },
   {
     "src": "assets/fotos/alhambra.jpg",
     "thumb": "assets/fotos/alhambra.jpg",
-    "alt": "Da igual el enfado siempre que se te pone una cámara"
+    "alt": "Da igual el enfado siempre que se te pone una cámara",
+    "caption": "Da igual el enfado siempre que se te pone una cámara"
   },
   {
     "src": "assets/fotos/carbon.jpg",
@@ -17,51 +19,61 @@
     {
     "src": "assets/fotos/espejo.jpg",
     "thumb": "assets/fotos/espejo.jpg",
-    "alt": "Siempre serás mi pequeñita"
+    "alt": "Siempre serás mi pequeñita",
+      "caption": "Muy aesthetic la verdad"
   },
     {
     "src": "assets/fotos/cucaracha.jpg",
     "thumb": "assets/fotos/cucaracha.jpg",
-    "alt": "Top momentos de mi top viaje"
+    "alt": "Top momentos de mi top viaje",
+      "caption": "Top momentos de mi top viaje"
   },
     {
     "src": "assets/fotos/despedida.jpg",
     "thumb": "assets/fotos/despedida.jpg",
-    "alt": "Voy a estar siempre, cerca o lejos"
+    "alt": "Voy a estar siempre, cerca o lejos",
+      "caption": "Voy a estar siempre, cerca o lejos"
   },
     {
     "src": "assets/fotos/g10.jpg",
     "thumb": "assets/fotos/g10.jpg",
-    "alt": "Por muchas más fiestas juntos"
+    "alt": "Por muchas más fiestas juntos",
+      "caption": "Por muchas más fiestas juntos"
   },
     {
     "src": "assets/fotos/primavera.jpg",
     "thumb": "assets/fotos/primavera.jpg",
-    "alt": "Si llegamos a entrar a ellas claro"
+    "alt": "Si llegamos a entrar a ellas claro",
+      "caption": "Si llegamos a entrar a ellas claro"
   },
   {
     "src": "assets/fotos/montanaamarilla.jpg",
     "thumb": "assets/fotos/montanaamarilla.jpg",
-    "alt": "Lo fuerte que estoy ke"
+    "alt": "Lo fuerte que estoy ke",
+    "caption": "Lo fuerte que estoy ke"
   },
     {
     "src": "assets/fotos/sevilla.jpg",
     "thumb": "assets/fotos/sevilla.jpg",
-    "alt": "Un viaje entre solo amigos jasjsjjaj"
+    "alt": "Un viaje entre solo amigos jasjsjjaj",
+      "caption": "Un viaje entre solo amigos jasjsjjaj"
   },
     {
     "src": "assets/fotos/sunblast.jpg",
     "thumb": "assets/fotos/sunblast.jpg",
-    "alt": "Fotaca del mejor festival al que he ido"
+    "alt": "Fotaca del mejor festival al que he ido",
+      "caption": "Fotaca del mejor festival al que he ido"
   },
     {
     "src": "assets/fotos/eyes.jpg",
     "thumb": "assets/fotos/eyes.jpg",
+    "alt": "Nuestra primera foto juntos <3",
     "alt": "Nuestra primera foto juntos <3"
   },
       {
     "src": "assets/fotos/mascarilla.jpg",
     "thumb": "assets/fotos/mascarilla.jpg",
     "alt": "Porque sigas cuidandome siempre así"
+    "caption": "Nuestra primera foto juntos <3"
   }
 ]
