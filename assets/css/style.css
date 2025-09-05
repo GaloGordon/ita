@@ -26,3 +26,38 @@
 @media (max-width: 420px){
   .nav a{ padding: 8px 10px; font-size: 14px; }
 }
+/* Grid tiles with captions */
+.gallery figure{
+  margin: 0 0 16px;
+  break-inside: avoid;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  border: 1px solid rgba(255,143,177,.18);
+  background: linear-gradient(180deg, rgba(255,143,177,.10), rgba(255,143,177,.02));
+}
+.gallery figure a{ display:block; }
+.gallery figure img{ width:100%; height:auto; display:block; }
+.gallery figure figcaption{
+  padding:10px 12px;
+  font-size:14px;
+  color:var(--text);
+  opacity:.9;
+}
+
+/* Lightbox caption */
+.lightbox .caption{
+  position:absolute;
+  left:50%;
+  bottom:24px;
+  transform:translateX(-50%);
+  max-width: min(90vw, 780px);
+  padding:10px 14px;
+  border-radius: 12px;
+  background: rgba(0,0,0,.55);
+  border: 1px solid rgba(255,143,177,.35);
+  color: #fff;
+  text-align:center;
+  font-size:14px;
+  line-height:1.4;
+}
